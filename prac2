@@ -16,7 +16,7 @@ int main() {
     printf("%s %s\n", "Date:", YEAR);
     printf("*****************************\n")  ;
     
-    printf("%s", "Enter a decimal number: ") ;
+    printf("%s", "Enter a decimal positive number: ") ;
     int n ;
     scanf("%d", &n) ;
     
